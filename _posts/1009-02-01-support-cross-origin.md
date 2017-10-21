@@ -1,7 +1,8 @@
 ---
 layout: post
 ---
-If you're fetching data from server and html file with javascript code server from different server
+If you're fetching json data and html with Brisk Table library from different servers
+
 you will need to add HTTP headers to support cross origin
 ("Access-Control-Allow-Origin" header on server side)
 
