@@ -1,7 +1,9 @@
 ---
 layout: post
 ---
-Example of custom function. you can you any library or HTTP method to ferch data
+Example of custom function. 
+
+You can use any library or any HTTP method to ferch data from remote server
 
 ```
 <script type="text/javascript">
@@ -20,4 +22,4 @@ Example of custom function. you can you any library or HTTP method to ferch data
 data-provider-function="ajaxDataProviderFunction"
 ```
 
-*Please pay attention that we returning asynchronous method which returns data when making async call
+*Please pay attention that we're returning asynchronous method which returns data when making async call
