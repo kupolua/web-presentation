@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-You can specify next attribute to define you custom function which will receive json object of selected row
+You can specify next attribute to define your custom function which will receive json object of selected row
 
 ```
 <script type="text/javascript">
