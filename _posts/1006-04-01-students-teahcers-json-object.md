@@ -2,7 +2,8 @@
 layout: post
 ---
 ```
-'{
+json:
+{
     "teachers": [
         {
             "firstName": "John",
@@ -34,19 +35,19 @@ layout: post
             "firstName": "Jukone",
             "lastName": "Mildret",
             "age": 18,
-            "cellPhone": "+008754223678",
+            "cellPhone": "+008754223678"
         },
         {
             "firstName": "Andre",
             "lastName": "Jokuw",
             "age": 21,
-            "cellPhone": "+009945612345",
+            "cellPhone": "+009945612345"
         },
         {
             "firstName": "Guta",
             "lastName": "Amira",
             "age": 20,
-            "cellPhone": "+005484327853",
+            "cellPhone": "+005484327853"
         },
         {
             "firstName": "Park",

@@ -14,4 +14,3 @@ To fetch selected rows use next function
 ```
 <button onclick="fetchSelectedRows('1')">Click to fetch selected rows</button>
 ```
-

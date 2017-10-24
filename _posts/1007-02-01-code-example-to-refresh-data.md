@@ -14,7 +14,7 @@ layout: post
          {"fieldName":"age","columnName":"Age","columnWidth":10},
          {"fieldName":"cellPhone","columnName":"Cell Phone","columnWidth":330}
      ]'
-     data-column-text-length="50"
+     data-column-text-length="30"
      data-hook-on-row-selected="hookFunction"
      data-provider-function="dataProviderFunction"
 ></div>
